@@ -40,3 +40,23 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Files
+
+.editorconfig
+.gitignore
+angular.json
+package-lock.json
+package.json
+README.md
+tailwind.config.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+
+
+
+
+
+
+
