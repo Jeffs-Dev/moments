@@ -13,7 +13,7 @@
 {
   padding: 0;
   margin: 0;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Times, 'Times New Roman', serif;
   box-sizing: border-box;
   color: #444;
 }
@@ -27,4 +27,6 @@ a{
 a:hover{
   color: #dec129;
 }
+
+
 
