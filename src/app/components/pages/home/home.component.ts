@@ -24,12 +24,12 @@ export class HomeComponent implements OnInit{
       const data = itens.data;
 
       data.map((item) => {
-        item.create_at = new Date(item.create_at!).toLocaleDateString('pt-BR');
+        item.created_at = new Date(item.created_at!).toLocaleDateString('pt-BR');
       });
 
       this.allMoments = data;
       this.moments = data;
-      
+
     })
 
 
