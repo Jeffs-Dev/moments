@@ -1,11 +1,12 @@
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
+
 import { EditMomentComponent } from './components/pages/edit-moment/edit-moment.component';
 import { MomentComponent } from './components/pages/moment/moment.component';
-import { Moment } from 'src/app/interfaces/Moment';
 import { NewMomentComponent } from './components/pages/new-moment/new-moment.component';
 import { AboutComponent } from './components/pages/about/about.component';
 import { HomeComponent } from './components/pages/home/home.component';
-import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
