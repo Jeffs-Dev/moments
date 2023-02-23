@@ -1,4 +1,4 @@
-# Pokédex App
+# Moments App (Posts)
 
 A project using the concepts of REST for insert posts with coments. On this project was used knowledge in Angular.
   
